@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683843445 source:c:\users\pablo jose\downloads\semestre 1\programacion\code block\proyecto ahorcado progra\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
